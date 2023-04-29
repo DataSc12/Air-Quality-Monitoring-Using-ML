@@ -1,7 +1,7 @@
 # Air-Quality-Monitoring-Using-ML
 
 
-Air pollution is a big issue in today's society. This project aims to use leverage the use of machine learning to predict pollution level and air quality of the city of Phoenix, Arizona. The PM2.5 pollutant concentration will be predicted based on meteorological data and also the concentration of other pollutants (PM10, CO, NO2, Ozone). A web app was created using Streamlit to make prediction based on values entered by the user.
+Air pollution is a big issue in today's society. This project aims to leverage the use of machine learning to predict pollution level and air quality of the city of Phoenix, Arizona. The PM2.5 pollutant concentration will be predicted based on meteorological data and also the concentration of other pollutants (PM10, CO). A web app was created using Streamlit to make prediction based on values entered by the user.
 
 
 Datasets references:
