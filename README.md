@@ -1,7 +1,7 @@
 # Air-Quality-Monitoring-Using-ML
 
 
-Air pollution is a very important issue in today's society. This project aims to use leverage the use of machine learning to
+Air pollution is a very big issue in today's society. This project aims to use leverage the use of machine learning to
 predict the concentration of Particulate Matter (PM2.5) pollutant based on meteorological data and other pollutants' (PM10 and CO) concentration
 
 ##### Five pollutants were used in this analysis:
