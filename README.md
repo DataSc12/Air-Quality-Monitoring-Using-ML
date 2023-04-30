@@ -16,6 +16,7 @@ predict the concentration of Particulate Matter (PM2.5) pollutant based on meteo
 - Analyze Evolution of Pollutants Concentration with Time
 - Analyze Correlation Between Different Pollutants (to know which pollutants best explain PM2.5 concentration)
 - Analyze Correlation Between Pollutants and Meteorological Data 
+- Develop a Random Forest Model to Predict the PM2.5 Concentration Based on Meteorological Data and Other Pollutants Concentration
 - Create an Air Quality Prediction Web App Using Streamlit
 
 ##### Link to Github Repository: 
